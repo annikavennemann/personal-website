@@ -1,0 +1,140 @@
+.intro {
+    display: flex;
+    position: relative
+}
+
+.intro__block--background {
+    position: absolute;
+    left: 0;
+    width: 350px;
+    height: 710px;
+    background-color: #E6DACE;
+    z-index: -1;
+}
+
+.intro__block--front {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 140px;
+    width: 300px;
+    height: 400px;
+    background-color: #F4ECE6;
+    box-shadow: 2px 4px 4px 0 rgba(0, 0, 0, 0.2)
+}
+
+.intro__block--contact {
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 140px;
+    width: 300px;
+    height: 50px;
+    background-color: #fefcfb;
+    box-shadow: 2px 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.intro__profilepicture {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 215px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.intro__name {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 215px;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.intro__moin {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+    font-size: 55px;
+}
+
+.intro__teaser {
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 500px;
+    font-size: 26px;
+}
+
+.intro__text {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 500px;
+    padding-right: 30px;
+    font-size: 20px; 
+}
+
+.intro__linkedIn {
+    position: absolute;
+    margin-top: 483px;
+    margin-left: 170px;
+    width: 40px;
+    height: 40px;
+}
+
+.intro__xing {
+    position: absolute;
+    margin-top: 485px;
+    margin-left: 230px;
+    width: 40px;
+    height: 40px;
+}
+
+.intro__gitHub {
+    position: absolute;
+    margin-top: 485px;
+    margin-left: 290px;
+    width: 40px;
+    height: 40px;
+}
+
+.intro__mail {
+    position: absolute;
+    margin-top: 484px;
+    margin-left: 350px;
+    width: 46px;
+    height: 43px;
+}
+
+.button__cv {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 500px;
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #4c8bf5;
+    color: #ffffff;
+    padding: 6px 30px;
+    border-radius: 20px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+
+.button__contact {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 630px;
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #4c8bf5;
+    color: #ffffff;
+    padding: 6px 18px;
+    border-radius: 20px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC; 
+}
