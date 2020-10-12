@@ -8,8 +8,9 @@
   }
 
 .cv__headline2 {
-    padding-top: 20px;
+    margin-top: 0;
     margin-left: 50px;
+    padding-top: 20px;
 }
 
 .cv__headline3 {
@@ -107,6 +108,14 @@
     position: relative;
     border-radius: 6px;
   }
+
+  .contentEhrenamt {
+    padding: 20px 30px;
+    background-color: #e5e5e5;
+    position: relative;
+    border: 4px white solid;
+    border-radius: 6px;
+  }
   
   /* Media queries - Responsive timeline on screens less than 600px wide */
   @media screen and (max-width: 600px) {
@@ -140,3 +149,13 @@
       left: 0%;
     }
   }
+
+.textblock {
+  padding: 20px 0 20px 20px;
+  background-color: white;
+  border: 30px solid #F4ECE6;
+}
+
+.education__ul {
+  margin-bottom: 50px;
+}

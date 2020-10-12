@@ -110,7 +110,7 @@
     margin-top: 440px;
     margin-left: 500px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 400;
     text-decoration: none;
     background-color: #4c8bf5;
     color: #ffffff;
@@ -122,16 +122,16 @@
     border-left: 1px solid #CCCCCC;
 }
 
-.button__contact {
+.button__academicEducation {
     position: absolute;
     margin-top: 440px;
     margin-left: 630px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 400;
     text-decoration: none;
     background-color: #4c8bf5;
     color: #ffffff;
-    padding: 6px 18px;
+    padding: 6px 8px;
     border-radius: 20px;
     border-top: 1px solid #CCCCCC;
     border-right: 1px solid #333333;
