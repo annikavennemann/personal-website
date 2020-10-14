@@ -159,3 +159,28 @@
 .education__ul {
   margin-bottom: 50px;
 }
+
+.interests__section {
+  padding: 20px;
+}
+
+.interests__all {
+  display: flex;
+  list-style: none;
+  flex-wrap: flex;
+}
+
+.interests__list {
+  display: flex;
+  list-style: none;
+}
+
+.interests__icon--rookies {
+  width: 60px;
+  height: auto;
+}
+
+.interests__icon {
+  width: 80px;
+  height: 80px;
+}
